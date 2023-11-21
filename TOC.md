@@ -66,6 +66,8 @@
   + [导入过程中实现数据转换](/loading/Etl_in_loading.md)
   + [使用 DataX 导入](/loading/DataX-starrocks-writer.md)
   + [使用 CloudCanal 导入](/loading/CloudCanal_loading.md)
+  + 从 AutoMQ Kafka™ 导入
+    + [使用 Routine Load](/loading/automq-routine-load.md)
 + 导出数据
   + [使用 EXPORT 导出数据](/unloading/Export.md)
   + [使用 INSERT INTO FILES 导出数据](/unloading/unload_using_insert_into_files.md)
